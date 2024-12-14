@@ -1,4 +1,4 @@
-# CS4171 Programming Assignment II
+# CS4171 Programming For Artificial Intelligence
 ## Objective: 
 EirGrid maintains data at 15-minute intervals on the nation’s electricity supply. 
 The assignment is to generate plots of two sets of EirGrid data. The two files wind-gen.csv and 
